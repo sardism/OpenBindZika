@@ -1,0 +1,6 @@
+tutorial/
+data/
+snapshots/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
