@@ -5,3 +5,4 @@ snapshots/
 __pycache__/
 .ipynb_checkpoints/
 runs/
+*:Zone.Identifier
