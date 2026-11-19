@@ -6,3 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 runs/
 *:Zone.Identifier
+database/
+notebooks/Previous/
+structures/29HN_protein.*
+structures/8PN6.cif
